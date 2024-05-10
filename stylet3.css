@@ -1,0 +1,11 @@
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+  
+}
+tr:nth-child(odd) {
+    background-color:gainsboro;
+  }
+  td{
+    padding-left: 40px ;
+  }
